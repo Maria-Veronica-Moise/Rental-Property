@@ -1,7 +1,7 @@
-﻿using ConsoleApp1.ApartHotel.Rooms;
+﻿using Exercise.ApartHotel.Rooms;
 using System.ComponentModel.DataAnnotations;
 
-namespace ConsoleApp1.ApartHotel;
+namespace Exercise.ApartHotel;
 
 public class ApartmentUnit
 {

@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp1.ApartHotel;
+﻿namespace Exercise.ApartHotel;
 
 public class PropertyFloor
 {

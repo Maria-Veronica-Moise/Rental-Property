@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ConsoleApp1.ApartHotel.Rooms;
+namespace Exercise.ApartHotel.Rooms;
 
 public record Bed
 {
